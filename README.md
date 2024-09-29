@@ -1,2 +1,1 @@
-# Candy_cleaning_project
-This is my take on the famous candy hirarchy data set that is used as a cleaning task 
+This project is about cleaning the data of a candy dataset. The dataset is a list of candies with their respective attributes. The goal is to clean the data and make it ready for analysis. The dataset is in a xlsx file format.
